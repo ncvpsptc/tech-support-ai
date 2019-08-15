@@ -41,7 +41,7 @@
 },
 {
 "title":"Clearing Cache in Google Chrome",
-"video":"https://drive.google.com/open?id=1ySoItgcviZ6qG72GKMRq2GJTPky3aPFV",
+"video":"https://drive.google.com/file/d/1PlpSDu9K7MAlJ0eUe8R7NKstpGSbB2zI/view?usp=sharing",
 "transcript":"Today, you are going to be learning how to clear cache in Google Chrome. The easiest way to do this is to clear the local cache by pressing control shift j. This opens the JavaScript console. From here, you need to make sure this is set on laptop since that's the average screen size for the device that you will be using for your courses, but if you have a larger laptop, you will probably want to press laptop large, if you have a tablet, you will want to press tablet, and if you have a mobile device, you will want to press either mobile large, mobile medium, or mobile small. So, for this one, we are just going to click laptop since that's the size of my device. With this, you then press and hold the reload button and click empty cache and hard reload. Then, to continue your course, you'll want to exit out of the JavaScript console. Sometimes, though, administrators block this due to security reasons. Then, you'll want to press control h. From here, you click clear browsing data. Make sure that cached images and files is clicked and make sure that the time range is all time. Then you'll click clear data and then, your cache will be cleared so that you can use any program that needs the cache to be cleared so it will actually work. And that's how you clear cache on Google Chrome."
 }
 ]
